@@ -1,0 +1,762 @@
+[10-Jun-2017 00:26:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:27:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:27:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:28:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:28:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:28:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:29:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:32:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '$db_password' (T_VARIABLE) in /home/saddaejd/public_html/OFD/config.php on line 5
+[10-Jun-2017 00:33:01 Etc/GMT] PHP Notice:  Undefined variable: db_host in /home/saddaejd/public_html/OFD/restaurants.php on line 4
+[10-Jun-2017 00:33:01 Etc/GMT] PHP Notice:  Undefined variable: db_name in /home/saddaejd/public_html/OFD/restaurants.php on line 4
+[10-Jun-2017 00:33:01 Etc/GMT] PHP Notice:  Undefined variable: db_username in /home/saddaejd/public_html/OFD/restaurants.php on line 4
+[10-Jun-2017 00:33:01 Etc/GMT] PHP Notice:  Undefined variable: db_password in /home/saddaejd/public_html/OFD/restaurants.php on line 4
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:56 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:33:57 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:01 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:04 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:05 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:06 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:28 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:39:29 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:13 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:40:14 Etc/GMT] PHP Notice:  Undefined index: image in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:47:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:47:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:48:24 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/saddaejd/public_html/OFD/restaurants.php on line 176
+[10-Jun-2017 00:48:26 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/saddaejd/public_html/OFD/restaurants.php on line 176
+[10-Jun-2017 00:50:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:50:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:52:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:52:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:53:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:54:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saddaejd/public_html/OFD/restaurants.php on line 183
+[10-Jun-2017 00:58:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 308
+[10-Jun-2017 00:58:57 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 00:58:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 00:59:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 00:59:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 01:00:10 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 01:00:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/saddaejd/public_html/OFD/restaurants.php on line 306
+[10-Jun-2017 01:00:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/saddaejd/public_html/OFD/restaurants.php on line 211
+[10-Jun-2017 01:00:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/saddaejd/public_html/OFD/restaurants.php on line 211
+[10-Jun-2017 01:04:22 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:23 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:42 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:43 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:53 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:54 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:56 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:04:57 Etc/GMT] PHP Notice:  Array to string conversion in /home/saddaejd/public_html/OFD/restaurants.php on line 177
+[10-Jun-2017 01:05:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/saddaejd/public_html/OFD/restaurants.php on line 178
+[10-Jun-2017 01:05:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home/saddaejd/public_html/OFD/restaurants.php on line 178
+[10-Jun-2017 01:07:16 Etc/GMT] PHP Notice:  Undefined index: name in /home/saddaejd/public_html/OFD/restaurants.php on line 180
+[10-Jun-2017 01:07:17 Etc/GMT] PHP Notice:  Undefined index: name in /home/saddaejd/public_html/OFD/restaurants.php on line 180
+[10-Jun-2017 01:11:48 Etc/GMT] PHP Notice:  Undefined index: name in /home/saddaejd/public_html/OFD/restaurants.php on line 181
+[10-Jun-2017 01:11:49 Etc/GMT] PHP Notice:  Undefined index: name in /home/saddaejd/public_html/OFD/restaurants.php on line 181
+[10-Jun-2017 04:49:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:49:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:29 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:50:31 Etc/GMT] PHP Notice:  Undefined index: rating in /home/saddaejd/public_html/OFD/restaurants.php on line 179
+[10-Jun-2017 04:52:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:52:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:53:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:53:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:54:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:54:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:56:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:57:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:58:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:58:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:58:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:58:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:59:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:59:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:59:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:59:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 04:59:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 05:00:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[10-Jun-2017 05:00:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/saddaejd/public_html/OFD/restaurants.php on line 182
+[22-Oct-2017 10:17:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index.php on line 73
+[22-Oct-2017 10:17:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index.php on line 73
+[22-Oct-2017 10:18:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index.php on line 73
+[22-Oct-2017 10:22:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:22:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:22:33 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:22:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:25:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:25:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:26:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:29:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index.php on line 71
+[22-Oct-2017 10:29:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index.php on line 71
+[22-Oct-2017 10:29:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:29:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:31:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:36:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:36:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:46:58 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Oct-2017 10:46:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Oct-2017 13:17:55 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Oct-2017 13:18:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 17:46:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:08:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:08:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:08:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:20:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:20:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Nov-2017 18:20:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Nov-2017 17:31:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Nov-2017 04:59:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Nov-2017 19:04:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Nov-2017 19:04:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Nov-2017 04:34:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Nov-2017 04:34:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[13-Nov-2017 05:36:18 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[13-Nov-2017 05:36:18 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Nov-2017 03:28:26 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Nov-2017 03:28:26 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Nov-2017 04:58:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Nov-2017 04:58:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[16-Nov-2017 06:42:39 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[16-Nov-2017 06:42:39 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Nov-2017 05:51:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Nov-2017 14:17:29 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Nov-2017 05:56:23 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Nov-2017 05:56:23 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Nov-2017 14:10:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Nov-2017 06:02:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Nov-2017 06:02:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Nov-2017 16:15:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Dec-2017 07:34:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Dec-2017 07:34:18 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Dec-2017 07:35:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Dec-2017 07:35:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[12-Dec-2017 07:36:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[13-Dec-2017 09:02:06 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[13-Dec-2017 09:02:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 06:11:51 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 06:14:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:00:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:01:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:01:46 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:02:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:02:06 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 09:02:20 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 15:00:39 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 17:23:48 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[14-Dec-2017 17:56:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 08:13:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 10:32:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 10:32:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 11:18:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 11:18:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 11:18:04 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 15:08:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 15:08:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[15-Dec-2017 16:12:23 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[16-Dec-2017 09:38:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[16-Dec-2017 09:38:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[16-Dec-2017 17:38:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 04:28:16 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 04:28:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 07:58:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 07:58:20 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 07:59:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 08:05:56 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 08:06:04 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 16:52:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[17-Dec-2017 16:52:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Dec-2017 17:02:58 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Dec-2017 17:03:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Dec-2017 17:58:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[18-Dec-2017 17:58:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 06:02:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 06:02:52 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 06:04:51 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 06:04:52 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 12:57:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 12:57:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 12:57:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:20:39 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:20:41 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:20:41 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:20:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:21:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:21:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:23:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:23:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:25:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:25:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:25:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:25:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:29:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[19-Dec-2017 23:30:00 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 03:35:31 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 03:35:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 04:59:38 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 04:59:40 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 05:37:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 05:37:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 05:50:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 14:19:42 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 14:19:42 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[20-Dec-2017 17:22:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[21-Dec-2017 18:29:44 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[21-Dec-2017 18:29:44 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[22-Dec-2017 02:55:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 03:03:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 03:03:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 05:08:50 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 05:08:50 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 05:09:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 05:10:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 05:10:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:14:06 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:14:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:52:31 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:52:33 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:08 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:26 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 06:54:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 07:00:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 12:40:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 12:40:34 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[23-Dec-2017 14:34:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 03:47:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 03:47:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 04:45:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 04:45:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 13:32:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 20:15:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[24-Dec-2017 20:15:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[25-Dec-2017 06:52:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[25-Dec-2017 06:52:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[25-Dec-2017 12:14:51 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[25-Dec-2017 12:14:51 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 04:25:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 06:30:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 06:30:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 07:14:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 10:57:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 10:57:24 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 11:18:39 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 11:18:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 11:59:19 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[26-Dec-2017 11:59:55 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 04:30:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 04:30:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 07:02:55 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 07:19:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 07:19:02 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 15:32:18 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 16:49:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 16:49:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 17:01:45 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[27-Dec-2017 17:01:45 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 08:31:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 08:31:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 12:04:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 16:42:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 16:42:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[28-Dec-2017 16:49:23 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[29-Dec-2017 07:02:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[29-Dec-2017 07:02:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 03:21:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 03:21:09 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 18:03:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 18:03:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 21:54:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[30-Dec-2017 21:54:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[31-Dec-2017 05:23:31 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[31-Dec-2017 18:46:19 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[31-Dec-2017 18:46:19 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 03:50:53 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 05:40:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 10:41:20 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 12:59:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 12:59:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 15:06:40 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[01-Jan-2018 19:49:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:32 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:50 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:53:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:55:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:55:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:56:43 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 04:56:45 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 05:19:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 05:19:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 05:22:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 08:53:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 08:53:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 10:51:48 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 13:56:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 13:56:59 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[02-Jan-2018 19:20:01 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 00:01:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 00:01:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 05:49:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 05:51:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 05:51:33 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 07:02:15 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 13:12:36 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 13:13:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 13:14:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 14:42:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 14:42:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 20:19:57 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[03-Jan-2018 20:20:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 06:48:06 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 06:48:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 07:10:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 07:10:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 17:04:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 17:04:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 18:57:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 18:57:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[04-Jan-2018 19:10:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[05-Jan-2018 04:42:36 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[05-Jan-2018 04:42:36 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[05-Jan-2018 13:52:33 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[05-Jan-2018 15:11:21 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[05-Jan-2018 15:11:25 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 03:40:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 03:40:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 10:40:14 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 10:40:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:10:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:10:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:10:26 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:11:41 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:11:45 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:12:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:12:31 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 11:12:46 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 13:57:28 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 13:57:29 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 16:25:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index1.php on line 63
+[06-Jan-2018 16:25:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index1.php on line 63
+[06-Jan-2018 16:32:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index1.php on line 63
+[06-Jan-2018 16:43:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index1.php on line 62
+[06-Jan-2018 16:49:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/saddaejd/public_html/OFD/index1.php on line 62
+[06-Jan-2018 17:22:22 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:22:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:23:18 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:23:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:23:22 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:23:33 Etc/GMT] PHP Fatal error:  Call to undefined function mysqpli_num_rows() in /home/saddaejd/public_html/OFD/index1.php on line 64
+[06-Jan-2018 17:34:10 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[06-Jan-2018 17:34:12 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 03:17:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 03:17:17 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 07:38:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 11:15:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 11:15:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 14
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 24
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 28
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 28
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 29
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 30
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 32
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 33
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 37
+[07-Jan-2018 12:01:02 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 50
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 14
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 24
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 28
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 28
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 29
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 30
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 32
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 33
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 37
+[07-Jan-2018 12:01:56 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 50
+[07-Jan-2018 14:02:21 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:02:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:07:36 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:07:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:29:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING), expecting ',' or ';' in /home/saddaejd/public_html/OFD/test.php on line 195
+[07-Jan-2018 14:29:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING), expecting ',' or ';' in /home/saddaejd/public_html/OFD/test.php on line 195
+[07-Jan-2018 14:31:26 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:31:26 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:31:27 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:31:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:32:02 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:32:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:32:40 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:32:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:33:47 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 166
+[07-Jan-2018 14:33:47 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 170
+[07-Jan-2018 14:39:43 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 14:39:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 14:44:17 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 169
+[07-Jan-2018 14:44:19 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 14:44:19 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 169
+[07-Jan-2018 14:44:19 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 14:45:13 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 14:45:15 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 14:45:15 Etc/GMT] PHP Notice:  Undefined variable: row1 in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 14:45:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:04:40 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:04:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 16:05:06 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:05:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 16:07:16 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:07:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 171
+[07-Jan-2018 16:29:11 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:29:11 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:29:11 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:29:13 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:29:13 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:30:22 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:30:22 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:30:22 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:30:37 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:30:37 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 179
+[07-Jan-2018 16:40:56 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:40:58 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:40:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:43:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:43:53 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:43:53 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:44:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:44:41 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:44:41 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:45:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:45:38 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:45:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 180
+[07-Jan-2018 16:46:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:46:07 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:46:07 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:47:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:47:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:47:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:47:23 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:47:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:48:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:48:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:48:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:48:44 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:48:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:50:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) in /home/saddaejd/public_html/OFD/test.php on line 178
+[07-Jan-2018 16:50:42 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:50:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:50:45 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:50:45 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:51:04 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:04 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:04 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:10 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:10 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:10 Etc/GMT] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/saddaejd/public_html/OFD/test.php on line 181
+[07-Jan-2018 16:51:14 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:51:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:54:02 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:54:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 16:54:39 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/test.php on line 167
+[07-Jan-2018 16:54:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/test.php on line 172
+[07-Jan-2018 17:01:39 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 17:01:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 172
+[07-Jan-2018 17:01:54 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 17:01:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 172
+[07-Jan-2018 17:02:08 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 17:02:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 172
+[07-Jan-2018 17:39:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[07-Jan-2018 17:39:42 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 17:39:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[07-Jan-2018 17:44:59 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 17:46:19 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[07-Jan-2018 18:26:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[07-Jan-2018 18:26:13 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 05:01:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 05:01:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 05:40:23 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 05:40:30 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 05:41:38 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 05:45:04 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 12:17:04 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 12:17:07 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 13:19:08 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 13:19:11 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 13:19:26 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:20:50 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:21:06 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:21:15 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:21:28 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:21:55 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:26:45 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 13:26:45 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[08-Jan-2018 14:36:38 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 14:36:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[08-Jan-2018 14:37:49 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 14:37:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[08-Jan-2018 15:05:44 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 15:06:03 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 16:22:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 16:22:05 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 16:41:58 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 17:47:08 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[08-Jan-2018 17:47:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[08-Jan-2018 17:47:47 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 17:47:48 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[08-Jan-2018 18:50:54 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 09:46:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 09:46:27 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 17:41:29 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 17:41:29 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 20:14:16 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 20:14:18 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[09-Jan-2018 20:14:30 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:14:30 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:15:20 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:15:20 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:15:27 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:15:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:15:35 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:15:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:15:47 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:15:47 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:15:54 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:15:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[09-Jan-2018 20:16:02 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[09-Jan-2018 20:16:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[10-Jan-2018 09:55:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Jan-2018 09:55:37 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Jan-2018 18:34:35 Etc/GMT] PHP Notice:  Undefined property: mysqli_result::$num_options in /home/saddaejd/public_html/OFD/index.php on line 67
+[10-Jan-2018 21:25:10 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/saddaejd/public_html/OFD/index.php on line 9
+[10-Jan-2018 21:25:10 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/index.php on line 13
+[10-Jan-2018 21:25:14 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/saddaejd/public_html/OFD/index.php on line 9
+[10-Jan-2018 21:25:14 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/index.php on line 13
+[10-Jan-2018 21:25:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: YES) in /home/saddaejd/public_html/OFD/index.php on line 9
+[10-Jan-2018 21:25:35 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/index.php on line 13
+[10-Jan-2018 21:25:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: YES) in /home/saddaejd/public_html/OFD/index.php on line 9
+[10-Jan-2018 21:25:41 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/index.php on line 13
+[10-Jan-2018 21:37:02 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:37:02 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:37:02 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:37:02 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 81
+[10-Jan-2018 21:38:22 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:38:22 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:38:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:38:22 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 81
+[10-Jan-2018 21:39:03 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:03 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:03 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:03 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 81
+[10-Jan-2018 21:39:09 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:09 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 77
+[10-Jan-2018 21:39:09 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 81
+[10-Jan-2018 21:39:36 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:36 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:36 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 78
+[10-Jan-2018 21:39:40 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:40 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:40 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:39:40 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 78
+[10-Jan-2018 21:40:39 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:39 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:39 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 78
+[10-Jan-2018 21:40:42 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:42 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:42 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 78
+[10-Jan-2018 21:40:58 Etc/GMT] PHP Notice:  Undefined variable: dbuser in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:58 Etc/GMT] PHP Notice:  Undefined variable: dbpass in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:58 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'saddaejd'@'localhost' (using password: NO) in /home/saddaejd/public_html/OFD/popup.php on line 74
+[10-Jan-2018 21:40:58 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/saddaejd/public_html/OFD/popup.php on line 78
+[12-Jan-2018 09:42:49 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 09:42:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[12-Jan-2018 10:22:26 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 10:22:26 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[12-Jan-2018 10:23:35 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 10:23:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[12-Jan-2018 10:23:58 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 10:23:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[12-Jan-2018 10:24:43 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 10:24:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[12-Jan-2018 12:59:08 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[12-Jan-2018 12:59:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[20-Jan-2018 14:04:07 Etc/GMT] PHP Notice:  Undefined index: q in /home/saddaejd/public_html/OFD/getCollege.php on line 3
+[30-Jan-2018 14:03:58 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[30-Jan-2018 14:03:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175
+[30-Jan-2018 14:04:54 Etc/GMT] PHP Notice:  Undefined index: city in /home/saddaejd/public_html/OFD/restaurants1.php on line 167
+[30-Jan-2018 14:04:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/saddaejd/public_html/OFD/restaurants1.php on line 175

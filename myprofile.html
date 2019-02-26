@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>SaddaCampus</title>   
+
+<meta name="description" content="Insert Your Site Description" /> 
+
+<!-- Mobile Specifics -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="320"/>   
+
+<!-- Mobile Internet Explorer ClearType Technology -->
+<!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.minim.css" rel="stylesheet">
+
+<!-- Main Style -->
+<link href="css/main.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="css/supersized.css" rel="stylesheet">
+<link href="css/supersized.shutter.css" rel="stylesheet">
+
+<!-- FancyBox -->
+<link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
+
+<!-- Font Icons -->
+<link href="css/fonts.css" rel="stylesheet">
+
+<!-- Shortcodes -->
+<link href="css/shortcodes.css" rel="stylesheet">
+
+<!-- Responsive -->
+<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="css/supersized.css" rel="stylesheet">
+<link href="css/supersized.shutter.css" rel="stylesheet">
+
+<!-- Google Font -->
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+
+<!-- Fav Icon -->
+<link rel="shortcut icon" href="#">
+
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="144x144" href="#">
+
+<!-- Modernizr -->
+<script src="js/modernizr.js"></script>
+
+<!-- Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'Insert Your Code']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Analytics -->
+
+</head>
+
+
+<body>
+
+<!-- This section is for Splash Screen -->
+<div class="ole">
+<section id="jSplash">
+	<div id="circle"></div>
+</section>
+</div>
+<!-- End of Splash Screen -->
+
+<!-- Bank List-->
+<style>
+ul{list-style-type:none}
+li.bank {float:left;
+margin:20px}
+</style>
+<!-- End Bank List -->
+
+<!-- OnOff Switch -->
+<style>
+
+
+input[type=checkbox] {
+  visibility: hidden;
+}
+
+
+label.checkbox {
+	cursor: pointer;
+  text-indent: 35px;
+  overflow: visible;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 15px;
+}
+
+label.checkbox:before {
+  background: #3a57af;
+  content:'';
+  position: absolute;
+  top:9px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+}
+
+label.checkbox:after {
+	opacity: 0;
+	content: '';
+	position: absolute;
+	width: 0.7em;
+	height: 0.5em;
+	background: transparent;
+	top: 7.5px;
+	left: 4.5px;
+	border: 3px solid #ffffff;
+	border-top: none;
+	border-right: none;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+input[type=checkbox]:checked + label:after {
+	opacity: 2;
+}
+
+.gender{
+  margin-left: 8px;
+  margin-top: 20px;
+}
+
+.page .title-page{
+    background-color: rgba(0,0,0,0.3);
+}
+
+/*For the parallex effect*/
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+
+
+
+#work, #social-area, #order {
+    opacity : 0.5;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.page,
+.page-alternate{
+    padding:25px 0px;
+}
+
+.page-alternate{
+        box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+#work{
+    background-image: url("https://via.placeholder.com/1366x768");
+    min-height: 100%;
+}
+
+#social-area{
+    background-image: url("https://via.placeholder.com/1200x600");
+    min-height: 100px;
+}
+
+#order{
+    background-image: url("https://via.placeholder.com/1000x500");
+    min-height: 300px;
+}
+ /*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+}
+</style>
+<!--On Off Switch Ends -->
+
+
+<!-- Header -->
+<header>
+    <div class="sticky-nav">
+    	<a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
+        
+        <div id="logo">
+        	<a class="navbar-brand" href="index.html"> <img class="img-rounded" src="images/logo.png" alt="" width="140"> </a>
+        </div>
+        
+        <nav id="menu">
+        	<ul id="menu-nav">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="#work">My Coupons</a></li>
+                <li><a href="#about">Saved Address</a></li>
+                <li><a href="#social-area">Notification</a></li>
+                <li><a href="#savedcard">Saved Cards</a></li>
+                <li><a href="#order">Previous Orders</a></li>
+            </ul>
+        </nav>
+        
+    </div>
+</header>
+<!-- End Header -->
+
+<!-- Our Work Section -->
+<div id="work" class="page">
+
+
+	<!--Brought the title out of the container-->
+	<div class="title-page">
+            <h2 class="title">Coupons</h2>
+            <h3 class="title-description">Check Out All Your Coupons on <a href="#">Dribbble</a>.</h3>
+        </div>
+        
+        
+	<div class="container">
+    	<!-- Title Page -->
+        <!--<div class="row">
+            <div class="span12">
+                
+            </div>
+        </div>-->
+        <!-- End Title Page -->
+        
+        <!-- Portfolio Projects -->
+        <div class="row">
+             <div class="span3">
+            	<!-- Filter -->
+                <nav id="options" class="work-nav">
+                    <ul id="filters" class="option-set" data-option-key="filter">
+
+                        <li><a href="#filter" data-option-value="*" class="selected">All Restaurants</a></li>
+                        <li><a href="#filter" data-option-value=".r1">Restaurant1</a></li>
+                        <li><a href="#filter" data-option-value=".r2">Restaurant2</a></li>
+                        <li><a href="#filter" data-option-value=".r3">Restaurant3</a></li>
+                    </ul>
+                </nav>
+                <!-- End Filter -->
+            </div>
+
+		    <div class="span9">
+            	<div class="row">
+                	<section id="projects">
+                    	<ul id="thumbs">
+                        
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r1">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The City" href=" /img/work/full/image-01-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-01.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r2">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Office" href=" /img/work/full/image-02-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-02.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r1">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Mountains" href=" /img/work/full/image-03-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r2">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Mountains" href=" /img/work/full/image-04-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-04.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r2">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Sea" href=" /img/work/full/image-05-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-05.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r1">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clouds" href=" /img/work/full/image-06-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-06.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r3">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clouds" href=" /img/work/full/image-07-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-07.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r2">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Dark" href=" /img/work/full/image-08-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-08.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                            
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r1">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Beach" href=" /img/work/full/image-09-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-09.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+							
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r3">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Beach" href=" /img/work/full/image-10-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-10.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+							
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r3">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Beach" href=" /img/work/full/image-11-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-11.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+							
+							<!-- Item Project and Filter Name -->
+                        	<li class="item-thumbs span3 r1">
+                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Beach" href=" /img/work/full/image-12-full.jpg">
+                                	<span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="img/work/thumbs/image-12.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                            </li>
+                        	<!-- End Item Project -->
+                        </ul>
+                    </section>
+                    
+            	</div>
+            </div>
+        </div>
+        <!-- End Portfolio Projects -->
+    </div>
+</div>
+<!-- End Our Work Section -->
+
+<!-- About Section -->
+<div id="about" class="page-alternate">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">SavedAddress</h2>
+                <h3 class="title-description">Here's All Your Previous Order Addresses.</h3>
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+    
+    <!-- People -->
+    <div class="row">
+    	
+        <!-- Start Profile -->
+    	<div class="span4 profile">
+            <h3 class="profile-name">John Doe</h3>
+            <p class="profile-description">213, Thane<br> Mumbai<br> Maharashtra-259852</p>
+            	</div>
+        <!-- End Profile -->
+        
+        <!-- Start Profile -->
+    	<div class="span4 profile">
+            <h3 class="profile-name">Jane Helf</h3>
+            <p class="profile-description">213, Thane<br> Mumbai<br> Maharashtra-259852</p>
+            </div>
+        <!-- End Profile -->
+        
+        <!-- Start Profile -->
+    	<div class="span4 profile">	
+            <h3 class="profile-name">Joshua Insanus</h3>
+            <p class="profile-description">213, Thane<br> Mumbai<br> Maharashtra-259852</p>
+            </div>
+        <!-- End Profile -->
+        
+    </div>
+    <!-- End People -->
+</div>
+</div>
+<!-- End About Section -->
+
+
+
+<!-- Notify -->
+<div id="social-area" class="page">
+    <div class="title-page">
+                <h2 class="title">Notification</h2>
+				<h3 class="title-description">Notify Me About My Orders Through</h3>
+            </div>
+			
+			
+			<div class="gender">
+    <input type="checkbox" value="None" id="male" name="gender" checked/>
+    <label for="male" class="checkbox"><h3 class="profile-name"chec>E-Mail</h3></label>
+    <input type="checkbox" value="None" id="female" name="gender" checked/>
+    <label for="female" class="checkbox"><h3 class="profile-name"chec>SMS</h3></label>
+   </div>
+  </form>
+</div>
+
+			
+  </div>
+</div>
+<!-- End Notify -->
+<!-- About Section -->
+<div id="savedcard" class="page-alternate">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Saved Cards</h2>
+                <h3 class="title-description">Your All Saved Cards</h3>
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+    
+    <!-- People -->
+
+        <!-- Start Profile -->
+    	<ul>
+					<li class="bank"><img src="img/profile/profile-01.jpg" alt="John Doe" width="100" height="100"></li>
+            <li>SBI Bank<br>
+                **** **** **** 6466</li>
+			</ul><br><br><br><br>
+        <!-- End Profile -->
+        <!-- Start Profile -->
+    	<ul>
+					<li class="bank"><img src="img/profile/profile-01.jpg" alt="John Doe" width="100" height="100"></li>
+            <li>SBI Bank<br>
+                **** **** **** 6466</li>
+			</ul><br><br><br><br>
+        <!-- End Profile -->
+        <!-- Start Profile -->
+    	<ul>
+					<li class="bank"><img src="img/profile/profile-01.jpg" alt="John Doe" width="100" height="100"></li>
+            <li>SBI Bank<br>
+                **** **** **** 6466</li>
+			</ul><br><br>
+        <!-- End Profile -->
+      
+    
+    <!-- End People -->
+</div>
+</div>
+<!-- End About Section -->
+
+
+
+<!-- Previous Order -->
+<div id="order" class="page">
+    <div class="title-page">
+                <h2 class="title">Previous Orders</h2>
+				<h3 class="title-description">Check All your Previous Orders in One Go</h3>
+            </div>
+			<div class="row">
+			<!-- Start Profile -->
+    	<div class="span4 profile">
+            <h3 class="profile-name">Jan 21, 2017</h3>
+            <p class="profile-description">Item 1<br>Item 2<br>Item 3</p>
+            	</div>
+        <!-- End Profile -->
+        
+        <!-- Start Profile -->
+    	<div class="span4 profile">
+            <h3 class="profile-name">Jan 21, 2017</h3>
+            <p class="profile-description">Item 1<br>Item 2<br>Item 3</p>
+            </div>
+        <!-- End Profile -->
+        
+        <!-- Start Profile -->
+    	<div class="span4 profile">	
+            <h3 class="profile-name">Jan 21, 2017</h3>
+            <p class="profile-description">Item 1<br>Item 2<br>Item 3</p>
+            </div>
+        <!-- End Profile -->
+</div>
+</div>
+
+<!-- End Previous orders -->
+<!-- Footer -->
+<footer>
+	<p class="credits">| &copy;2017 SADDACAMPUS | All Rights Reserved |</p>
+	</footer>
+<!-- End Footer -->
+
+<!-- Back To Top -->
+<a id="back-to-top" href="#">
+	<i class="font-icon-arrow-simple-up"></i>
+</a>
+<!-- End Back to Top -->
+
+<!-- Js -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
+<script src=" js/bootstrap.min.js"></script> <!-- Bootstrap -->
+<script src=" js/supersized.3.2.7.min.js"></script> <!-- Slider -->
+<script src=" js/waypoints.js"></script> <!-- WayPoints -->
+<script src=" js/waypoints-sticky.js"></script> <!-- Waypoints for Header -->
+<script src=" js/jquery.isotope.js"></script> <!-- Isotope Filter -->
+<script src=" js/jquery.fancybox.pack.js"></script> <!-- Fancybox -->
+<script src=" js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
+<script src=" js/jquery.tweet.js"></script> <!-- Tweet -->
+<script src=" js/plugins.js"></script> <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+<script src=" js/main.js"></script> <!-- Default JS -->
+<!-- End Js -->
+
+</body>
+</html>
